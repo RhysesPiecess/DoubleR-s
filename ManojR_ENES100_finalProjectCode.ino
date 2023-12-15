@@ -1,3 +1,14 @@
+/*
+Rhys Manoj
+Roshni Suresh
+
+ENES100-23262
+Professor Mellini
+
+Code to run the Arduino Alarm
+Utilizes membrane keypad switch and RTC
+*/
+
 #include <Wire.h>
 #include <RTClib.h>
 #include <LiquidCrystal.h>
